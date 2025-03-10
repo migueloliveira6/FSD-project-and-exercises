@@ -1,0 +1,204 @@
+{
+    "fruta": [
+        {
+            "nome": "banana",
+            "quantidade": 15,
+            "preco": 1.5,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "abacaxi",
+            "quantidade": 5,
+            "preco": 3,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "uva",
+            "quantidade": 20,
+            "preco": 2.5,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "laranja",
+            "quantidade": 12,
+            "preco": 1.8,
+            "taxa_revenda": 0.2
+        }
+    ],
+    "livros": [
+        {
+            "nome": "SenhorDosAneis",
+            "quantidade": 7,
+            "preco": 30,
+            "taxa_revenda": 0.15
+        },
+        {
+            "nome": "OPequenoPrincipe",
+            "quantidade": 10,
+            "preco": 20,
+            "taxa_revenda": 0.15
+        },
+        {
+            "nome": "DomQuixote",
+            "quantidade": 3,
+            "preco": 35,
+            "taxa_revenda": 0.15
+        }
+    ],
+    "roupa": [
+        {
+            "nome": "camisola",
+            "quantidade": 30,
+            "preco": 15,
+            "taxa_revenda": 0.25
+        },
+        {
+            "nome": "calcas",
+            "quantidade": 20,
+            "preco": 40,
+            "taxa_revenda": 0.25
+        },
+        {
+            "nome": "casaco",
+            "quantidade": 10,
+            "preco": 60,
+            "taxa_revenda": 0.25
+        },
+        {
+            "nome": "sweatshirt",
+            "quantidade": 15,
+            "preco": 50,
+            "taxa_revenda": 0.25
+        }
+    ],
+    "ferramentas": [
+        {
+            "nome": "martelo",
+            "quantidade": 10,
+            "preco": 15,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "chavedeFendas",
+            "quantidade": 25,
+            "preco": 8,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "alicate",
+            "quantidade": 15,
+            "preco": 12,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "serrote",
+            "quantidade": 5,
+            "preco": 20,
+            "taxa_revenda": 0.2
+        }
+    ],
+    "computadores": [
+        {
+            "nome": "portatil",
+            "quantidade": 6,
+            "preco": 1500,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "desktop",
+            "quantidade": 4,
+            "preco": 2000,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "monitor",
+            "quantidade": 8,
+            "preco": 300,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "teclado",
+            "quantidade": 20,
+            "preco": 50,
+            "taxa_revenda": 0.1
+        }
+    ],
+    "smartphones": [
+        {
+            "nome": "iPhone",
+            "quantidade": 5,
+            "preco": 1200,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "Samsung",
+            "quantidade": 6,
+            "preco": 900,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "Xiaomi",
+            "quantidade": 10,
+            "preco": 600,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "Motorola",
+            "quantidade": 8,
+            "preco": 500,
+            "taxa_revenda": 0.1
+        }
+    ],
+    "filmes": [
+        {
+            "nome": "Inception",
+            "quantidade": 12,
+            "preco": 10,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "Padrinho",
+            "quantidade": 8,
+            "preco": 15,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "Matrix",
+            "quantidade": 10,
+            "preco": 12,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "StarWars",
+            "quantidade": 7,
+            "preco": 18,
+            "taxa_revenda": 0.2
+        }
+    ],
+    "sapatos": [
+        {
+            "nome": "NikeDunk",
+            "quantidade": 15,
+            "preco": 80,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "Adidas",
+            "quantidade": 10,
+            "preco": 120,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "sandalias",
+            "quantidade": 20,
+            "preco": 50,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "botas",
+            "quantidade": 8,
+            "preco": 150,
+            "taxa_revenda": 0.2
+        }
+    ]
+}

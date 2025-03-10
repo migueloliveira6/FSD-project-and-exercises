@@ -1,0 +1,54 @@
+{
+    "vegetais": [
+        {
+            "nome": "cenoura",
+            "quantidade": 10,
+            "preco": 1,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "batata",
+            "quantidade": 25,
+            "preco": 0.5,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "tomate",
+            "quantidade": 30,
+            "preco": 1.2,
+            "taxa_revenda": 0.2
+        },
+        {
+            "nome": "alface",
+            "quantidade": 10,
+            "preco": 0.8,
+            "taxa_revenda": 0.2
+        }
+    ],
+    "eletronicos": [
+        {
+            "nome": "smartphone",
+            "quantidade": 5,
+            "preco": 299,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "laptop",
+            "quantidade": 3,
+            "preco": 799,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "tablet",
+            "quantidade": 5,
+            "preco": 199,
+            "taxa_revenda": 0.1
+        },
+        {
+            "nome": "smartwatch",
+            "quantidade": 10,
+            "preco": 99,
+            "taxa_revenda": 0.1
+        }
+    ]
+}
